@@ -3,6 +3,7 @@
 <widget id="com.ionicframework.soccerprofile741499" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 -->
 
+<!-- widget for phoneGap -->
 <widget 	xmlns 		= "http://www.w3.org.ns/widgets"
 			xmlns:gap 	= "http://phonegap.com/ns/1.0"
 			id			= "com.BCIT4900.soccer pro-file"
