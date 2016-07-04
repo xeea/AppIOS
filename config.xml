@@ -38,7 +38,6 @@
   <preference name="KeyboardDisplayRequiresUserAction" value = "false" />
   <preference name="MediaPlaybackRequiresUserAction" value="true" />
   <preference name="AllowInlineMediaPlayback" value ="true" />
-  <preference name = "BackupWebStorage" value="false" />
   <preference name = "SuppressIncrementalRendering" value="true" />
   <preference name = "GapBetweenPages" value="0" />
   <preference name = "PageLength" value="0" />
